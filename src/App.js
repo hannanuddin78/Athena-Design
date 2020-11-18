@@ -1,8 +1,9 @@
 import './App.css';
-
+import Achievements from './Components/Home/Achievements/Achievements';
 function App() {
   return (
-    <div className="app">
+    <div>
+      <Achievements></Achievements>
     </div>
   );
 }
