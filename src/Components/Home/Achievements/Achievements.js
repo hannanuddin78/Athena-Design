@@ -3,8 +3,8 @@ import './Achievements.css';
 
 const Achievements = () => {
     return (
-        <div>
-            
+        <div className="section">
+            <h1>Our Achievements component</h1>
         </div>
     );
 };

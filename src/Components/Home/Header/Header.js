@@ -5,7 +5,7 @@ import Showcase from '../Showcase/Showcase';
 
 const Header = () => {
     return (
-        <div id="header">
+        <div>
             <NavigationBar />
             <Showcase />
         </div>

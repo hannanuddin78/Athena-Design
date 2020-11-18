@@ -7,7 +7,7 @@
 }
 .contactBtn {
   border: none;
-  outline: none;
+  outline: none !important;
   padding: 10px 25px;
   background: linear-gradient(0deg, #1fdeb0ff, #03a4f4ff);
   border-radius: 26px 0 26px 0;

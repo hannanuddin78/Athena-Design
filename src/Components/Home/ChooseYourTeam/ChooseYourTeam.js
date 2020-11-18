@@ -3,8 +3,8 @@ import './ChooseYourTeam.css';
 
 const ChooseYourTeam = () => {
     return (
-        <div>
-            
+        <div className="section">
+            <h1>This is Pricing component</h1>
         </div>
     );
 };

@@ -3,8 +3,8 @@ import './ContactUs.css';
 
 const ContactUs = () => {
     return (
-        <div>
-            
+        <div className="section">
+            <h1>This is a contact component</h1>
         </div>
     );
 };

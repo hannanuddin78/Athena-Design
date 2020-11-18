@@ -3,8 +3,8 @@ import './WhatWeDo.css';
 
 const WhatWeDo = () => {
     return (
-        <div>
-            
+        <div className="section">
+            <h1>This is services component</h1>
         </div>
     );
 };
