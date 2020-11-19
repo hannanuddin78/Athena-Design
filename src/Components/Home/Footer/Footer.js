@@ -41,6 +41,9 @@ const Footer = () => {
                                 <span>Status</span>                            
                             </Col>
                         </Row>
+                        <Row className="text-secondary mt-3">
+                            <Col><span>Copyright @ 2020 All rights reserved, SCIC-TEAM9</span></Col>
+                        </Row>
                    </Col>
                </Row>
            </Container>
