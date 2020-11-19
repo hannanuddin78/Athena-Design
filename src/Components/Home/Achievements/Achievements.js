@@ -4,7 +4,7 @@ import './Achievements.css';
 const Achievements = () => {
     return (
         <div>
-            acieve mebt
+            
         </div>
     );
 };

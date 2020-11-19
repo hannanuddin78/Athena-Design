@@ -1,9 +1,10 @@
 import './App.css';
-import Achievements from './Components/Home/Achievements/Achievements';
+import WhatWeDo from './Components/Home/WhatWeDo/WhatWeDo';
+
 function App() {
   return (
     <div>
-      <Achievements></Achievements>
+       <WhatWeDo></WhatWeDo>
     </div>
   );
 }
