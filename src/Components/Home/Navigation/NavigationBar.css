@@ -9,11 +9,18 @@
   border: none;
   outline: none !important;
   padding: 10px 25px;
-  background: linear-gradient(0deg, #1fdeb0ff, #03a4f4ff);
+  background: linear-gradient(60deg, #1fdeb0ff, #03a4f4ff);
   border-radius: 26px 0 26px 0;
   transition: 0.3s ease;
+  color: white;
 }
 
 .contactBtn:hover {
-  background: linear-gradient(0deg, #03a4f4ff, #1fdeb0ff);
+  background: linear-gradient(90deg, #03a4f4ff, #1fdeb0ff);
+}
+
+@media (max-width: 768px) {
+  .contactBtn {
+    padding: 15px 30px;
+  }
 }
