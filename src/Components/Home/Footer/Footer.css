@@ -8,4 +8,7 @@
   .footer-des {
     text-align: center;
   }
+  .footer-des span {
+    font-size: 20px;
+  }
 }

@@ -18,3 +18,9 @@
 .contactBtn:hover {
   background: linear-gradient(90deg, #03a4f4ff, #1fdeb0ff);
 }
+
+@media (max-width: 768px) {
+  .contactBtn {
+    padding: 15px 30px;
+  }
+}
