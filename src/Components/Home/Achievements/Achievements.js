@@ -10,10 +10,10 @@ import rocket from '../../../Images/rocket.png';
 const Achievements = () => {
     return (
         <div className="section">
-            <Container className="my-5">
+            <Container className="my-2">
                 <Row>
                     <Col md={5} className="mt-3">
-                        <h2 className="font-weight-bold mt-5">Our Achievements</h2>
+                        <h2 className="font-weight-bold pt-5">Our Achievements</h2>
                         <p className="mt-3 text-secondary">
                             It is a long established fact that a reader will be distracted by
                             the readable content of a page when looking at its layout. The
