@@ -19,7 +19,7 @@ const teamDetails = [
   {
     id: 2,
     price: 399,
-    for: "For Preferred",
+    for: "For Basic",
     li1: "Homepage",
     li2: "4 Inner Pages",
     li3: "Asset file",
@@ -31,9 +31,9 @@ const teamDetails = [
   {
     id: 3,
     price: 599,
-    for: "For Elite",
+    for: "For Basic",
     li1: "Homepage",
-    li2: "8 Inner Page",
+    li2: "No Inner Page",
     li3: "Asset file",
     li4: "Source file",
     li5: "Free Stock Photos",
@@ -45,7 +45,7 @@ const teamDetails = [
 const ChooseYourTeam = () => {
   return (
     <Container className="mt-5">
-      <h1 className="text-center team-h1 mb-5">CHOOSE YOUR DEDICATED TEAM</h1>
+      <h1 className="text-center mb-5">CHOOSE YOUR DEDICATED TEAM</h1>
       <Row>
         {teamDetails.map((team) => (
           <TeamDetails team={team} key={team.id} />
