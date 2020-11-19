@@ -36,7 +36,7 @@ const Footer = () => {
                             </Col>
                             <Col sm={12} md={4}>
                                 <span>Blog</span> <br/>
-                                <span>Helo Center</span> <br/>
+                                <span>Help Center</span> <br/>
                                 <span>Contact Us</span> <br/>
                                 <span>Status</span>                            
                             </Col>
